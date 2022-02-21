@@ -1,2 +1,2 @@
-# About-Us
-Who we are and what are we doing?
+# Witaj podróżniku!
+Po więcej informacji o naszym projekcie zapraszamy na stronę [innspace.pl](www.innspace.pl).
